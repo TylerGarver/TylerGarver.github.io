@@ -1,0 +1,45 @@
+nav{
+    background: #7CF9B6;
+    color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 80%;
+    padding-right: 30px;
+    position: fixed;
+    width: 100%;
+}
+
+a.menu{
+    color: gray;
+    text-decoration: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a.menu:hover{
+    color:black;
+    background:#54E295;
+}
+
+a.base{
+    background-color: #ffb5fc;
+}
+
+body{
+    margin: 0px;
+    font-family; "Roboto", sans-serif;
+    font-weight: 500;
+    font-style; normal;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    
+}
+
+/*** comment ***/
